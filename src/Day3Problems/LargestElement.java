@@ -1,4 +1,4 @@
-package Class1.src.com.RFP_Batch225.Day3PracticeProblem;
+package Day3Problems;
 
 import java.util.Scanner;
 
